@@ -20,6 +20,7 @@
   "exports": {
     ".": "./dist/index.js"
   },
+  "type": "module",
   "engines": {
     "node": ">=20"
   },
